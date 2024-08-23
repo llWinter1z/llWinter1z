@@ -1,16 +1,19 @@
 ## Hello there! 👋
 
-<!--
-**llWinter1z/llWinter1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p>My name is Fabio, but I am known by my internet friends as Winters. I am a brazilian amateur artist and developer born in São Paulo, who is currently studying in a FATEC college.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h4>My group projects</h1>
+
+<ul>
+    <li>First semester:<a href:"">Code 6 Wave</a></li>
+    <li>Second semester:</li>
+    <li>Third semester:</li>
+    <li>Fourth semester:</li>
+    <li>Fifth semester:</li>
+    <li>Sixth semester:</li>
+</ul>
+
