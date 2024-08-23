@@ -8,6 +8,8 @@
 
 <h4>My group projects</h4>
 
+<p>First semester: </p>
+<p>Second Semester: https://github.com/felipereira10/Code-Wave-2-API.git</p>
 
 
 
