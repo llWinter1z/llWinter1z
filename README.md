@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there! 👋
 
 <!--
 **llWinter1z/llWinter1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
