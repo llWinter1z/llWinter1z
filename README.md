@@ -6,14 +6,10 @@
 
 <br>
 
-<h4>My group projects</h1>
+<h4>My group projects</h4>
 
-<ul>
-    <li>First semester:<a href:"">Code 6 Wave</a></li>
-    <li>Second semester: <a href:"https://github.com/ErikZFerraz/Code-Wave-2-API">Code Wave 2</a></li>
-    <li>Third semester:</li>
-    <li>Fourth semester:</li>
-    <li>Fifth semester:</li>
-    <li>Sixth semester:</li>
-</ul>
+
+
+
+
 
