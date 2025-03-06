@@ -10,6 +10,8 @@
   <li>Java☕;</li>
   <li>HTML🖥️;</li>
   <li>CSS🖌️;</li>
+  <li>JavaScript☕;</li>
+  <li>SQL📋;</li>
 </ul>
 
 <br><br>
