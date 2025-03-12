@@ -2,7 +2,7 @@
 
 <br>
 
-<p>My name is Fabio, but I am known by my internet friends as Winters. I am a brazilian amateur artist and developer born in São Paulo, who is currently studying System Analisys and Development in a FATEC college.</p>
+<p>My name is Fabio, but I am known by my internet friends as Winters. I am a brazilian amateur artist and developer born in São Paulo, who is currently studying System Analysis and Development in a FATEC college.</p>
 
 <h3>Technologies I am currently working on &#8595;:</h3>
 <ul>
