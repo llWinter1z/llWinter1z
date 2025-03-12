@@ -30,7 +30,8 @@
 <h3>These were my past group projects:</h3>
 <ul>
 <li>First semester: <b>Code 6 Wave:</b> https://github.com/felipereira10/Code-6-Wave-1-API;</li>
-<li>Second Semester: <b>Code Wave:</b> https://github.com/felipereira10/Code-Wave-2-API.git;</li>
+<li>Second semester: <b>Code Wave:</b> https://github.com/felipereira10/Code-Wave-2-API.git;</li>
+<li>Third semester: <b>Bug Busters</b> https://github.com/Bug-Busters-F; [WIP]</li>
 </ul>
 
 <br>
