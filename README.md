@@ -16,9 +16,9 @@
 
 <br><br>
 
-<p align="center">I am still looking for a job related to my studies, so I can learn more and acquire experience!</p>
+<p align="center">I am still looking for a job regarding my studies, so I can learn more and acquire experience!</p>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/4011649/screenshots/12065396/radar_sonar.gif" alt="sonar">
+    <img src="https://cdn.dribbble.com/users/4011649/screenshots/12065396/radar_sonar.gif" alt="sonar">
 </p>
 
 <br>
